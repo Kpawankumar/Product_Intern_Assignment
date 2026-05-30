@@ -4,6 +4,12 @@
 
 Welcome to my product evaluation of [Vocallabs.ai](https://vocallabs.ai). This repository contains a deep-dive product teardown that bridges the gap between underlying AI/ML infrastructure and the end-user enterprise experience. 
 
+### 📄 View the Teardown
+For the best reading experience, please view the report using one of the links below:
+
+*   🌐 **[View the Live Web Report](https://kpawankumar.github.io/Product_Intern_Assignment/)**
+*   📥 **[Download the Full PDF Report](./Vocallabs.ai_Product_Teardown.pdf)**
+
 ## 🎯 The Objective
 The goal of this assignment is to evaluate Vocallabs.ai across five core product pillars, moving beyond surface-level UI critiques to identify structural friction points that impact user retention, API adoption, and enterprise Go-To-Market (GTM) velocity.
 
